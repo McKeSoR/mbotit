@@ -1,0 +1,41 @@
+{
+	"семья": {
+		"users": {
+			"4": {
+				"count": 0,
+				"glava": false
+			}
+		},
+		"balance": 0,
+		"bank": 0,
+		"people": 1,
+		"counts": 0,
+		"owner": 518438289
+	},
+	"Братья": {
+		"users": {
+			"10": {
+				"count": 0,
+				"glava": false
+			}
+		},
+		"balance": 0,
+		"bank": 0,
+		"people": 1,
+		"counts": 0,
+		"owner": 518438289
+	},
+	"пппп": {
+		"users": {
+			"20": {
+				"count": 0,
+				"glava": false
+			}
+		},
+		"balance": 0,
+		"bank": 0,
+		"people": 1,
+		"counts": 0,
+		"owner": 518438289
+	}
+}
